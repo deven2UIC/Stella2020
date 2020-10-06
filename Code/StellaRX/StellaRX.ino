@@ -78,7 +78,7 @@ void dataReceived_Interrupt() {
 //==========================setup()=================================
 void setup() {
     Serial.begin(9600);
-    Serial.println("Stella Receiver Starting");
+    Serial.println("Stella Receiver Starting -- Edit");
 
     //-----------------------------------------
     //Radio initialization and settings
